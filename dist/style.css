@@ -11,15 +11,15 @@ h1 {
 
 .card {
   margin: 25px;
-  max-width: 280px;
+  width: 16rem;
   max-height: 22rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  
 }
 
 .card-head {
   background-color: blue;
-  color:white
+  color:white;
+  padding: 15px;
 }

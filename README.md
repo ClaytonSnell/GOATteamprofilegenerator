@@ -7,7 +7,9 @@
 
 ## Walkthrough Video
 
+https://drive.google.com/file/d/1NfKaEs5HWrBSGS6wfA7Wrhk2qZp2b4TH/view
 
 
+## Github link
 
-## Github links
+https://github.com/ClaytonSnell/GOATteamprofilegenerator

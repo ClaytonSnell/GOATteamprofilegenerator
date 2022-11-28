@@ -6,7 +6,7 @@ const getTeam = (team) => {
     // .   Manager Card
     const getManager = manager => {
       let managerHTML = `<div class="card" ;">
-              <div class="card-head">
+              <div class="card-header">
                 ${manager.name}
               </div>
               <ul class="list-group list-group-flush">
@@ -23,7 +23,7 @@ const getTeam = (team) => {
     // .  Engineer Card
     const getEngineer = engineer => {
       let engineerHTML = `<div class="card" ;">
-              <div class="card-head">
+              <div class="card-header">
                 ${engineer.name}
               </div>
               <ul class="list-group list-group-flush">
@@ -40,7 +40,7 @@ const getTeam = (team) => {
     // .  Intern Card
     const getIntern = intern => {
       let internHTML = `  <div class="card" ;">
-              <div class="card-head">
+              <div class="card-header">
                 ${intern.name}
               </div>
               <ul class="list-group list-group-flush">
