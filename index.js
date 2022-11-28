@@ -4,8 +4,8 @@ const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern');
 const path = require('path');
 const fs = require('fs');
-// const generateHTML = require('./src/generateHTML')
-const { writeFile } = require('fs').promises;
+const generateHTML = require('./src/generateHTML')
+// const { writeFile } = require('fs').promises;
 
 const teamArray = []
 
